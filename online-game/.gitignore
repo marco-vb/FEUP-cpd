@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+out/
+
+# Ignore data files
+*.csv
+*.txt
